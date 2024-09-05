@@ -1,5 +1,5 @@
 const { fontFamily } = require('tailwindcss/defaultTheme');
-
+#adjusted the css
 module.exports = {
   mode: 'jit',
   plugins: [
