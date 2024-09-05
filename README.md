@@ -60,4 +60,4 @@ This repo is open to contribution and modifications,<br>
 
 <b><i>Star this Repository and you can visit to my profile and see some more Projects like this.</i></b>
 <br/>
-*Mail me at <a href="mailto:hi+CpBuddy@abhaygupta.me">hi@abhaygupta.me</a> for any collaboration or queries.*
+*Mail me at <a href="mailto:hi+CpBuddy@Reinhard.rao1@live.vu.edu">hi@Reinhard.me</a> for any collaboration or queries.*
