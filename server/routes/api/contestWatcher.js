@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const fetch = require('node-fetch')
 
-
+//fixed api
 require('dotenv').config();
 
 const DurationInSecondsToString = (durationInSeconds) => {
